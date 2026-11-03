@@ -2,7 +2,7 @@
 
 🔐 **Cybersecurity Student | Aspiring Penetration Tester**
 
-I'm currently studying cybersecurity, focusing on ethical hacking, network security and penetration testing.
+I'm currently studying on Think Employment's **Level 3 Skills Bootcamp in Cyber Security**, developing skills in defensive security, ethical hacking, network security and penetration testing.
 
 I enjoy problem-solving, exploring vulnerabilities and learning how to secure systems.
 
@@ -32,7 +32,7 @@ Kali Linux | Nmap | Metasploit | VirtualBox
 
 ## 🧪 Hands-on Cybersecurity Training
 ### 📚 Formal Cybersecurity Studies
-- **[Cybersecurity Training — Think Employment](Cybersecurity-Course/README.md)** — Ongoing course learning covering security fundamentals, incident response, OSINT, security frameworks, risk, legislation and professional practice. Exact qualification title to be confirmed.
+- **[Level 3 Skills Bootcamp in Cyber Security — Think Employment](Cybersecurity-Course/README.md)** — In progress (advertised duration: 12–16 weeks). Live online training covering security fundamentals, incident response, OSINT, security frameworks, risk, legislation and practical projects.
 
 
 - **[My TryHackMe Profile](https://tryhackme.com/p/mrromano15111987)** — Hands-on cybersecurity training and learning progress.
