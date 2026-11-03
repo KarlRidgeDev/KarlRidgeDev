@@ -25,7 +25,7 @@ These topics reflect coursework and learning activities I have worked through. T
 
 | Activity | Skills practised | Publication status |
 | --- | --- | --- |
-| Phishing incident post-mortem | Timeline, response review, root cause and lessons learned | Coursework exercise; portfolio write-up not yet published |
+| [Phishing incident post-mortem](Phishing-Incident-Post-Mortem.md) | Simulated phishing response, event timeline, SANS phases, root cause and lessons learned | **Portfolio case study published** — illustrative scenario, not the original coursework submission |
 | Denial-of-service and fire incident response planning | Preparation, containment, recovery and communication | Coursework exercises; originals not published |
 | OSINT source comparisons | Reliability, suitability and limitations of public sources | Coursework exercise; original not published |
 | Security by design evaluation | Preventative controls, advantages and trade-offs | Coursework exercise; original not published |
