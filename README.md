@@ -33,6 +33,7 @@ Kali Linux | Nmap | Metasploit | VirtualBox
 ## 🧪 Hands-on Cybersecurity Training
 ### 📚 Formal Cybersecurity Studies
 - **[Level 3 Skills Bootcamp in Cyber Security — Think Employment](Cybersecurity-Course/README.md)** — In progress (advertised duration: 12–16 weeks). Live online training covering security fundamentals, incident response, OSINT, security frameworks, risk, legislation and practical projects.
+- **[Phishing Incident Post-Mortem](Cybersecurity-Course/Phishing-Incident-Post-Mortem.md)** — Simulated training case study covering an incident timeline, the SANS response lifecycle, evidence gaps and blame-free lessons learned.
 
 
 - **[My TryHackMe Profile](https://tryhackme.com/p/mrromano15111987)** — Hands-on cybersecurity training and learning progress.
