@@ -1,5 +1,7 @@
 # Kali Linux Penetration Testing Lab
 
+📄 **[Read my penetration testing report](Penetration-Testing-Report.md)** — Scope, Nmap evidence, vsftpd 2.3.4/CVE-2011-2523 assessment, severity, recommendations and evidence limitations.
+
 ## Objective
 Practise identifying and investigating vulnerabilities in an authorised testing environment.
 
@@ -18,3 +20,5 @@ I gained practical experience in network reconnaissance, vulnerability identific
 
 ## Ethical Statement
 All testing was performed on systems I own or was authorised to test.
+
+**Reporting note:** My original summary describes an exploitation demonstration, but the full terminal logs and verifiable shell output were not preserved. The detailed report distinguishes this from confirmed evidence.
