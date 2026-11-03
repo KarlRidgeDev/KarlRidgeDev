@@ -16,10 +16,15 @@ I enjoy problem-solving, exploring vulnerabilities and learning how to secure sy
 ## 🧰 Tools
 Kali Linux | Nmap | Metasploit | VirtualBox
 
-## 💻 Current Projects
-- **OSINT Investigator** – Developing a security investigation tool.
-- **Home Lab** – Practising ethical hacking and vulnerability testing.
-- **Security Research** – Documenting investigations and coursework.
+## 💻 My Cybersecurity Portfolio
+
+### 🔬 Practical Labs
+- **[Kali Linux Penetration Testing Lab](Kali-Linux-Labs/README.md)** — Network scanning with Nmap, identifying a vulnerable vsftpd 2.3.4 service, and demonstrating exploitation in an authorised Metasploitable lab.
+
+### 🛠️ Projects in Progress
+- **OSINT Investigator** — Developing a security investigation tool.
+- **Home Lab** — Practising ethical hacking and vulnerability testing on systems I own or am authorised to assess.
+- **Security Research** — Documenting investigations, incident response exercises and cybersecurity coursework.
 
 ## 🎯 My Goal
 To build practical experience and pursue a career as a professional penetration tester.
