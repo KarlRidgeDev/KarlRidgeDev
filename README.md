@@ -26,6 +26,9 @@ Kali Linux | Nmap | Metasploit | VirtualBox
 - **Home Lab** — Practising ethical hacking and vulnerability testing on systems I own or am authorised to assess.
 - **Security Research** — Documenting investigations, incident response exercises and cybersecurity coursework.
 
+## 🧪 Hands-on Cybersecurity Training
+- **[My TryHackMe Profile](https://tryhackme.com/p/mrromano15111987)** — Practical cybersecurity learning and hands-on exercises. See my public TryHackMe profile for current activity and achievements.
+
 ## 🎯 My Goal
 To build practical experience and pursue a career as a professional penetration tester.
 
