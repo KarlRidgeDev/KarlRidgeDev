@@ -27,7 +27,21 @@ Kali Linux | Nmap | Metasploit | VirtualBox
 - **Security Research** — Documenting investigations, incident response exercises and cybersecurity coursework.
 
 ## 🧪 Hands-on Cybersecurity Training
-- **[My TryHackMe Profile](https://tryhackme.com/p/mrromano15111987)** — Practical cybersecurity learning and hands-on exercises. See my public TryHackMe profile for current activity and achievements.
+- **[My TryHackMe Profile](https://tryhackme.com/p/mrromano15111987)** — Hands-on cybersecurity training and learning progress.
+
+### Completed TryHackMe Rooms
+
+1. [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+2. [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+3. [Introduction to SIEM](https://tryhackme.com/room/introtosiem)
+4. [Malware Classification](https://tryhackme.com/room/malwareclassification)
+5. [Understanding Vulnerability Databases](https://tryhackme.com/room/understandingvulnerabilitydatabases)
+6. [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12)
+7. [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39)
+8. [Careers in Cyber](https://tryhackme.com/room/careersincybersn)
+9. [Cold Boot](https://tryhackme.com/room/insideacomputerQwe)
+
+*Completion list supplied by me; see my TryHackMe profile for publicly visible activity.*
 
 ## 🎯 My Goal
 To build practical experience and pursue a career as a professional penetration tester.
