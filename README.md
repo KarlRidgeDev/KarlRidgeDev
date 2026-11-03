@@ -40,6 +40,7 @@ Kali Linux | Nmap | Metasploit | VirtualBox
 7. [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39)
 8. [Careers in Cyber](https://tryhackme.com/room/careersincybersn)
 9. [Cold Boot](https://tryhackme.com/room/insideacomputerQwe)
+10. [What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
 *Completion list supplied by me; see my TryHackMe profile for publicly visible activity.*
 
