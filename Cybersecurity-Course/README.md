@@ -1,13 +1,14 @@
-# Cybersecurity Course — Think Employment
+# Skills Bootcamp in Cyber Security — Think Employment
 
 **Training provider:** [Think Employment](https://www.thinkemployment.com/)  
-**Area of study:** Cybersecurity  
-**Status:** In progress  
-**Formal course / qualification title:** To be confirmed from my enrolment information
+**Programme:** Skills Bootcamp in Cyber Security (Level 3)  
+**Advertised duration:** 12–16 weeks  
+**Delivery:** Live online training with cyber security professionals  
+**Status:** In progress — not yet completed
 
 ## About my training
 
-I am studying cybersecurity with Think Employment as part of a career change into the security industry, with a particular interest in penetration testing. This page documents **my own learning and practical exercises**, rather than reproducing course materials.
+I am enrolled on Think Employment's **Level 3 Skills Bootcamp in Cyber Security**, a 12–16 week online programme aimed at developing practical skills for entry-level cyber security work. My own career goal is to progress towards penetration testing. The programme promotes hands-on use of tools and portfolio projects; this page documents **my own learning and practical exercises**, rather than reproducing course materials.
 
 ## Topics I have studied
 
@@ -43,6 +44,6 @@ Outside the coursework, I have been applying these ideas through personal traini
 
 I aim to develop the technical understanding, practical testing experience and reporting skills needed to progress towards an entry-level cybersecurity role and, longer term, penetration testing.
 
-**Evidence note:** This page is a personal learning summary, not a transcript, certified record or confirmation of an awarded qualification. My exact course title and any achieved award will be added once verified.
+**Evidence note:** The programme name and Level 3 description are taken from Think Employment's Skills Bootcamp information supplied for my course. “Level 3” describes the advertised programme level; this page does **not** claim that a separate Level 3 qualification or certificate has been awarded. The course is in progress. This is a personal learning summary, not a transcript or certified record.
 
 *I only undertake security testing on systems that I own or am authorised to assess.*
