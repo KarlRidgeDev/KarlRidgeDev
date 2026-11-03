@@ -6,6 +6,10 @@ I'm currently studying cybersecurity, focusing on ethical hacking, network secur
 
 I enjoy problem-solving, exploring vulnerabilities and learning how to secure systems.
 
+## 🔗 Professional Links
+- [LinkedIn Profile](https://www.linkedin.com/in/karl-ridge-94bb27313/)
+- [TryHackMe Profile](https://tryhackme.com/p/mrromano15111987)
+
 ## 🛡️ Skills I'm Developing
 - Penetration Testing & Vulnerability Assessment
 - Network Security
