@@ -1,45 +1,27 @@
-Hello I'm Karl, Welcome to my Cybersecurity portfolio,
+# 👋 Hi, I'm Karl!
 
-I'm currently studying cybersecurity and working towards a career in penetration testing and ethical hacking.
+🔐 **Cybersecurity Student | Aspiring Penetration Tester**
 
-I'm passionate about technology, problem-solving and understanding how systems can be exploited and secured.
+I'm currently studying cybersecurity, focusing on ethical hacking, network security and penetration testing.
 
-I'm building my practical skills through hands-on labs, security investigations and personal projects. I'm always looking to learn, improve and gain more experience in the cybersecurity field.
+I enjoy problem-solving, exploring vulnerabilities and learning how to secure systems.
 
-I'm currently studying cybersecurity, working towards a career in ethical hacking and penetration testing.
+## 🛡️ Skills I'm Developing
+- Penetration Testing & Vulnerability Assessment
+- Network Security
+- Open Source Intelligence (OSINT)
+- Incident Response
+- Cybersecurity Frameworks
 
-This repository documents my learning, practical projects and hands-on experience.
+## 🧰 Tools
+Kali Linux | Nmap | Metasploit | VirtualBox
 
-https://www.linkedin.com/feed/
+## 💻 Current Projects
+- **OSINT Investigator** – Developing a security investigation tool.
+- **Home Lab** – Practising ethical hacking and vulnerability testing.
+- **Security Research** – Documenting investigations and coursework.
 
-🛡️ Skills I'm Developing
+## 🎯 My Goal
+To build practical experience and pursue a career as a professional penetration tester.
 
-Penetration Testing & Ethical Hacking
-
-Network Security & Vulnerability Assessment
-
-Open Source Intelligence (OSINT)
-
-Incident Response & Security Analysis
-
-Cybersecurity Frameworks (NIST, NCSC, ISO 27001)
-
-💻 Projects
-
-OSINT Investigator – Developing a tool for gathering and analysing public security information.
-
-Penetration Testing Lab – Practising network scanning and vulnerability testing using Kali Linux and Metasploitable.
-
-Security Investigations – Studying cyberattacks, incident response and security improvements.
-
-🧰 Tools
-
-Kali Linux | Nmap | Metasploit | VirtualBox | GitHub
-
-🎯 My Goal
-
-To develop the technical skills and practical experience needed to become a professional penetration tester.
-
-All security testing is conducted ethically on authorised systems.
-
-🚀 This portfolio will grow as I continue learning.
+*All security testing is performed on authorised systems.*
