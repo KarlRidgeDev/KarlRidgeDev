@@ -23,7 +23,7 @@ Kali Linux | Nmap | Metasploit | VirtualBox
 ## 💻 My Cybersecurity Portfolio
 
 ### 🔬 Practical Labs
-- **[Kali Linux Penetration Testing Lab](Kali-Linux-Labs/README.md)** — Network scanning with Nmap, identifying a vulnerable vsftpd 2.3.4 service, and demonstrating exploitation in an authorised Metasploitable lab.
+- **[Kali Linux Penetration Testing Lab](Kali-Linux-Labs/README.md)** — Used Nmap and Metasploit to investigate the vsftpd 2.3.4 service on an authorised Metasploitable VM. See the [penetration testing report](Kali-Linux-Labs/Penetration-Testing-Report.md) for findings, risk assessment, recommendations and evidence limitations.
 
 ### 🛠️ Projects in Progress
 - **[OSINT Investigator v0.9.1](OSINT-Investigator/README.md)** — A Python desktop OSINT workbench with public DNS/HTTPS research, email and username checks, preliminary findings, an evidence graph and case reports. [View source code](OSINT-Investigator/main.py).
