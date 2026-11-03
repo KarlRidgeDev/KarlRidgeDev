@@ -31,6 +31,10 @@ Kali Linux | Nmap | Metasploit | VirtualBox
 - **Security Research** — Documenting investigations, incident response exercises and cybersecurity coursework.
 
 ## 🧪 Hands-on Cybersecurity Training
+### 📚 Formal Cybersecurity Studies
+- **[Cybersecurity Training — Think Employment](Cybersecurity-Course/README.md)** — Ongoing course learning covering security fundamentals, incident response, OSINT, security frameworks, risk, legislation and professional practice. Exact qualification title to be confirmed.
+
+
 - **[My TryHackMe Profile](https://tryhackme.com/p/mrromano15111987)** — Hands-on cybersecurity training and learning progress.
 
 ### Completed TryHackMe Rooms
