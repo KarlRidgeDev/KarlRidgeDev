@@ -1,6 +1,7 @@
 # Skills Bootcamp in Cyber Security — Think Employment
 
 **Training provider:** [Think Employment](https://www.thinkemployment.com/)  
+**Public course listing:** [Skills Bootcamp in Cyber Security — Think LMS](https://learn.thinkemployment.com/course/info.php?id=104) (lesson materials require learner login)  
 **Programme:** Skills Bootcamp in Cyber Security (Level 3)  
 **Advertised duration:** 12–16 weeks  
 **Delivery:** Live online training with cyber security professionals  
