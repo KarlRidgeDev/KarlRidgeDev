@@ -7,6 +7,7 @@ I'm currently studying on Think Employment's **Level 3 Skills Bootcamp in Cyber 
 I enjoy problem-solving, exploring vulnerabilities and learning how to secure systems.
 
 ## 🔗 Professional Links
+- **[Cybersecurity CV](CV.md)** — My career-change CV, practical cybersecurity projects, training and professional experience.
 - [LinkedIn Profile](https://www.linkedin.com/in/karl-ridge-94bb27313/)
 - [TryHackMe Profile](https://tryhackme.com/p/mrromano15111987)
 
