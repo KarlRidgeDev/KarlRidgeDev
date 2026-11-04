@@ -1,45 +1,42 @@
-# 👋 Hi, I'm Karl!
+# Karl Ridge | Cybersecurity Portfolio
 
-🔐 **Cybersecurity Student | Aspiring Penetration Tester**
+**Aspiring Cybersecurity Analyst · Penetration Testing Career Path**  
+Mansfield, Nottinghamshire, UK
 
-I'm currently studying on Think Employment's **Level 3 Skills Bootcamp in Cyber Security**, developing skills in defensive security, ethical hacking, network security and penetration testing.
+I'm changing careers into cybersecurity after working in technical automotive roles and team management. I'm currently studying on Think Employment's **Level 3 Skills Bootcamp in Cyber Security** and building hands-on experience with security testing, OSINT, Python and incident response.
 
-I enjoy problem-solving, exploring vulnerabilities and learning how to secure systems.
+My aim is to start in an **entry-level cybersecurity or IT security role**, continue developing practical skills, and progress towards penetration testing.
 
-## 🔗 Professional Links
-- **[Cybersecurity CV](CV.md)** — My career-change CV, practical cybersecurity projects, training and professional experience.
-- [LinkedIn Profile](https://www.linkedin.com/in/karl-ridge-94bb27313/)
-- [TryHackMe Profile](https://tryhackme.com/p/mrromano15111987)
+## 👋 Start Here
 
-## 🛡️ Skills I'm Developing
-- Penetration Testing & Vulnerability Assessment
-- Network Security
-- Open Source Intelligence (OSINT)
-- Incident Response
-- Cybersecurity Frameworks
+**[Read My Cybersecurity CV](CV.md)** · **[LinkedIn](https://www.linkedin.com/in/karl-ridge-94bb27313/)** · **[TryHackMe](https://tryhackme.com/p/mrromano15111987)**
 
-## 🧰 Tools
-Kali Linux | Nmap | Metasploit | VirtualBox
+## 🛡️ Featured Projects & Evidence
 
-## 💻 My Cybersecurity Portfolio
+| Project | Skills demonstrated | Evidence |
+| --- | --- | --- |
+| **Kali Linux & Metasploitable Lab** | Authorised Nmap scanning, service enumeration and investigation of vsftpd 2.3.4 using Metasploit | [Lab overview](Kali-Linux-Labs/README.md) · [Penetration testing report](Kali-Linux-Labs/Penetration-Testing-Report.md) |
+| **OSINT Investigator v0.9.1** | Python/Tkinter application for public DNS, HTTPS, username and email research, with findings and reports | [Project overview](OSINT-Investigator/README.md) · [Source code](OSINT-Investigator/main.py) |
+| **Phishing Incident Post-Mortem** | Simulated incident timeline, SANS response phases, impact analysis and recommendations | [Case study](Cybersecurity-Course/Phishing-Incident-Post-Mortem.md) |
+| **Cybersecurity Skills Bootcamp** | Networking, threats, incident response, OSINT, security frameworks, ethics and legal principles | [Coursework & learning summary](Cybersecurity-Course/README.md) |
 
-### 🔬 Practical Labs
-- **[Kali Linux Penetration Testing Lab](Kali-Linux-Labs/README.md)** — Used Nmap and Metasploit to investigate the vsftpd 2.3.4 service on an authorised Metasploitable VM. See the [penetration testing report](Kali-Linux-Labs/Penetration-Testing-Report.md) for findings, risk assessment, recommendations and evidence limitations.
+**About the evidence:** These are educational and personal projects. The lab report distinguishes recorded findings from unverified exploit outcomes; the phishing report is a *simulated* case study; and OSINT Investigator is a learning project, not a production security tool.
 
-### 🛠️ Projects in Progress
-- **[OSINT Investigator v0.9.1](OSINT-Investigator/README.md)** — A Python desktop OSINT workbench with public DNS/HTTPS research, email and username checks, preliminary findings, an evidence graph and case reports. [View source code](OSINT-Investigator/main.py).
-- **Home Lab** — Practising ethical hacking and vulnerability testing on systems I own or am authorised to assess.
-- **Security Research** — Documenting investigations, incident response exercises and cybersecurity coursework.
+## 🧰 Technical Skills & Tools
 
-## 🧪 Hands-on Cybersecurity Training
-### 📚 Formal Cybersecurity Studies
-- **[Level 3 Skills Bootcamp in Cyber Security — Think Employment](Cybersecurity-Course/README.md)** — In progress (advertised duration: 12–16 weeks). Live online training covering security fundamentals, incident response, OSINT, security frameworks, risk, legislation and practical projects.
-- **[Phishing Incident Post-Mortem](Cybersecurity-Course/Phishing-Incident-Post-Mortem.md)** — Simulated training case study covering an incident timeline, the SANS response lifecycle, evidence gaps and blame-free lessons learned.
+- **Security labs:** Kali Linux, Nmap, Metasploit, Metasploitable, VirtualBox
+- **Networking & analysis:** TCP/IP, DNS, HTTP/HTTPS, common ports, security headers, SPF/DMARC concepts
+- **OSINT & automation:** Python, Tkinter, public-source research, evidence capture and reporting
+- **Defensive security:** Incident response, phishing analysis, risk assessment, security by design
+- **Frameworks and guidance:** SANS, NCSC, NIST, CIS Controls, ISO 27001 concepts
+- **Software development:** Git/GitHub, C#, Unity, Visual Studio, debugging
 
+## 🎓 Training & Continued Development
 
-- **[My TryHackMe Profile](https://tryhackme.com/p/mrromano15111987)** — Hands-on cybersecurity training and learning progress.
+**[Skills Bootcamp in Cyber Security — Think Employment](Cybersecurity-Course/README.md)**  
+Level 3 programme · Online · **In progress** · Advertised duration: 12–16 weeks
 
-### Completed TryHackMe Rooms
+My practical training includes **[TryHackMe](https://tryhackme.com/p/mrromano15111987)**. Rooms I have recorded as completed include:
 
 1. [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 2. [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
@@ -52,9 +49,16 @@ Kali Linux | Nmap | Metasploit | VirtualBox
 9. [Cold Boot](https://tryhackme.com/room/insideacomputerQwe)
 10. [What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-*Completion list supplied by me; see my TryHackMe profile for publicly visible activity.*
+*The completion list is based on my own training record; public profile activity may differ.*
 
-## 🎯 My Goal
-To build practical experience and pursue a career as a professional penetration tester.
+## 💼 What I Bring From My Previous Career
 
-*All security testing is performed on authorised systems.*
+Experience in automotive technical services and leadership has developed skills I can apply to cybersecurity: **systematic fault-finding, attention to detail, working under pressure, communicating findings, customer service and teamwork**.
+
+For dates and further experience, see **[my CV](CV.md)**.
+
+## 🎯 Career Goal
+
+Build a strong foundation in cybersecurity, secure an entry-level role and develop towards professional penetration testing.
+
+*Ethics: Security testing is carried out only in authorised learning environments or on systems I own or have permission to assess.*
