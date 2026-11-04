@@ -7,8 +7,6 @@ I'm changing careers into cybersecurity after working in technical automotive ro
 
 My aim is to start in an **entry-level cybersecurity or IT security role**, continue developing practical skills, and progress towards penetration testing.
 
-## 👋 Start Here
-
 **[Read My Cybersecurity CV](CV.md)** · **[LinkedIn](https://www.linkedin.com/in/karl-ridge-94bb27313/)** · **[TryHackMe](https://tryhackme.com/p/mrromano15111987)**
 
 ## 🛡️ Featured Projects & Evidence
